@@ -4,7 +4,7 @@
 
 ### Apresentação
 
-Seu desafio é construir este componente de card e fazê-lo parecer o mais próximo possível do design.
+Seu desafio é construir este componente de card e fazê-lo parecer o mais próximo possível do design que está no [Figma](https://www.figma.com/file/X4IbpMBNJXoVcYbXfIIeX0/Card---challenge?node-id=0%3A1).
 
 Você pode usar qualquer ferramenta ou tecnologia que desejar para te ajudar a completar o desafio. Portanto, se você tem algo que gostaria de praticar, sinta-se à vontade para experimentar.
 
