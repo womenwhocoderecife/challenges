@@ -4,7 +4,7 @@ Usando métodos de array, você transformará um array de strings em uma mensage
 
 Você deve consultar o [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) para obter referência sobre qualquer método com o qual você não esteja familiarizado.
 
-Acesse [este  arquivo](./WWCode_-_Mensagem_Secreta.pdf) para consultar a descrição do desafio.
+Acesse [este  arquivo](./mensagem-secreta.md) para consultar a descrição do desafio.
 
 ## Sugestão de estudos
 
