@@ -8,9 +8,11 @@
   -  Pedra, Papel ou Tesoura é um jogo clássico para dois jogadores. Cada jogador escolhe pedra, papel ou tesoura. Os itens são comparados e qualquer jogador que escolher o item mais poderoso ganha.
 
 # Os possíveis resultados são:
- *Pedra destrói tesoura (Pedra ganha da tesoura)
+ *Pedra destrói tesoura (Pedra ganha da tesoura)<br/>
  *Tesoura corta papel (Tesoura ganha do papel)
+ <br/>
  *Papel embrulha pedra (Papel ganha da pedra)
+ <br/>
  *Se houver empate, o jogo termina empatado.
 
 - Conceitos aprendidos nesse desafio:
